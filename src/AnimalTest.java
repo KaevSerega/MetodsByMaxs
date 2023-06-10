@@ -60,5 +60,6 @@ public class AnimalTest {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 }
